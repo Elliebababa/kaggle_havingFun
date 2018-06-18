@@ -1,2 +1,2 @@
 # kaggle_havingFun
-This repository is for storing from kaggle game.
+This repository is for storing code from kaggle game.
